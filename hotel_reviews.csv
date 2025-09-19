@@ -1,0 +1,9 @@
+timestamp,booking_id,customer_name,review_text,sentiment
+2025-09-01 03:10:58,,Yash Patil,Good UI,Positive
+2025-09-01 15:42:33,,Jagdish Gavhande,Not understandable,Neutral
+2025-09-01 15:44:07,,Shreeraj Patil,Disgusting experience,Negative
+2025-09-01 15:45:50,,Paresh Patil,UI is not working properly,Neutral
+2025-09-01 15:47:14,,Rohit Gunjal,Good UI,Positive
+2025-09-01 15:48:17,,Ritesh,I am unable to book room,Neutral
+2025-09-15 16:20:02,,Saurabh,i like it,Positive
+2025-09-19 21:04:57,,Mohit Patil,Bad hotel interior,Negative
